@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://johnc86.github.io/majalorkowska-com/sitemap.xml

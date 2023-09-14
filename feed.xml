@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>majalorkowska-com</title>
+    <link href="https://johnc86.github.io/majalorkowska-com/feed.xml" rel="self" />
+    <link href="https://johnc86.github.io/majalorkowska-com" />
+    <updated>2023-09-14T17:41:13+01:00</updated>
+    <author>
+        <name>Maja Lorkowska</name>
+    </author>
+    <id>https://johnc86.github.io/majalorkowska-com</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Maja Lorkowska</name>
+        </author>
+        <link href="https://johnc86.github.io/majalorkowska-com/test-post.html"/>
+        <id>https://johnc86.github.io/majalorkowska-com/test-post.html</id>
+            <category term="Writing"/>
+
+        <updated>2023-09-14T17:41:13+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This will soon be deleted!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This will soon be deleted!
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
