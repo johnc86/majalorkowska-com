@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/sitemap.xml

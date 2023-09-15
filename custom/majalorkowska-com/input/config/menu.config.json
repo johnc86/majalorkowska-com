@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Nav",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1694709375006,
+                "label": "Home",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1694709631014,
+                "label": "Writing",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1694709644096,
+                "label": "Artwork",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

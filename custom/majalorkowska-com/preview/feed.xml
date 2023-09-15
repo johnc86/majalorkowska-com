@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>majalorkowska-com</title>
+    <link href="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/feed.xml" rel="self" />
+    <link href="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview" />
+    <updated>2023-09-15T16:44:50+01:00</updated>
+    <author>
+        <name>Maja Lorkowska</name>
+    </author>
+    <id>file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview</id>
+
+    <entry>
+        <title>No featured but has image in it</title>
+        <author>
+            <name>Maja Lorkowska</name>
+        </author>
+        <link href="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/no-featured-but-has-image-in-it.html"/>
+        <id>file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/no-featured-but-has-image-in-it.html</id>
+
+        <updated>2023-09-15T16:44:50+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/5/annialbers.jpg" height="653" width="980" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/5/responsive/annialbers-xs.jpg 300w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/5/responsive/annialbers-sm.jpg 480w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/5/responsive/annialbers-md.jpg 768w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/5/responsive/annialbers-lg.jpg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Feat with Images in Post</title>
+        <author>
+            <name>Maja Lorkowska</name>
+        </author>
+        <link href="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/feat-with-images-in-post.html"/>
+        <id>file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/feat-with-images-in-post.html</id>
+        <media:content url="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/media/posts/4/brodzaca_maja_lorkowska.jpg" medium="image" />
+
+        <updated>2023-09-14T18:55:53+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/media/posts/4/brodzaca_maja_lorkowska.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/dream_maja-lorkowska.jpg" height="824" width="582" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/responsive/dream_maja-lorkowska-xs.jpg 300w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/responsive/dream_maja-lorkowska-sm.jpg 480w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/responsive/dream_maja-lorkowska-md.jpg 768w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/responsive/dream_maja-lorkowska-lg.jpg 1024w">
+      
+    </figure>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/gallery/boom.jpg" data-size="720x1080">
+        <img loading="lazy" src="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/gallery/boom-thumbnail.jpg" height="1080" width="720" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/gallery/bujany_peonies.jpg" data-size="794x1074">
+        <img loading="lazy" src="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/gallery/bujany_peonies-thumbnail.jpg" height="1039" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/gallery/collage-10.jpg" data-size="821x572">
+        <img loading="lazy" src="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/4/gallery/collage-10-thumbnail.jpg" height="535" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Feat Image Only</title>
+        <author>
+            <name>Maja Lorkowska</name>
+        </author>
+        <link href="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/feat-image-only.html"/>
+        <id>file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/feat-image-only.html</id>
+        <media:content url="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/media/posts/3/dream_maja-lorkowska.jpg" medium="image" />
+
+        <updated>2023-09-14T18:34:58+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/media/posts/3/dream_maja-lorkowska.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Image Test</title>
+        <author>
+            <name>Maja Lorkowska</name>
+        </author>
+        <link href="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/image-test.html"/>
+        <id>file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/image-test.html</id>
+            <category term="Artwork"/>
+
+        <updated>2023-09-14T18:32:59+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/2/img_20210517_191058_267-2.jpg" alt="" width="1440" height="1440" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/2/responsive/img_20210517_191058_267-2-xs.jpg 300w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/2/responsive/img_20210517_191058_267-2-sm.jpg 480w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/2/responsive/img_20210517_191058_267-2-md.jpg 768w ,file:///D:/GitHub/majalorkowska-com/custom/majalorkowska-com/preview/media/posts/2/responsive/img_20210517_191058_267-2-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Maja Lorkowska</name>
+        </author>
+        <link href="file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/test-post.html"/>
+        <id>file:///D:\GitHub\majalorkowska-com\custom\majalorkowska-com\preview/test-post.html</id>
+            <category term="Writing"/>
+
+        <updated>2023-09-14T17:41:13+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This will soon be deleted!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This will soon be deleted!
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
