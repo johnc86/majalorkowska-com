@@ -1,0 +1,121 @@
+$skew: 5deg;
+$grad-direction: bottom;
+$aniduration: 20s;
+
+$hero-c1: var(--hero-ani-1);
+$hero-c2: var(--hero-ani-2);
+$hero-c3: var(--hero-ani-3);
+$hero-c4: var(--hero-ani-4);
+
+.homehero {
+    display:flex;
+    height: 35rem;
+    margin-top: -4rem;  // this puts the hero UNDER the nav, so the top line of the hero isn't visible
+    // background: pink;
+    position: relative;
+    z-index: 10; // under the nav
+
+    &__topfiller {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      background: var(--hero-ani-1);
+      height: 6rem;
+      z-index: 20;
+    }
+
+    &__blend {
+        background: linear-gradient(180deg, $hero-c1 0%, $hero-c1 5%, $transparent 100%); // this puts the nav colours at the top of the hero animation, creating the blend
+        position: absolute;
+        height: 20rem;
+        content: '';
+        width: 100%;
+        z-index: 10; // over the animation
+        top: 0; // positions to start just under the nav
+    }
+
+    &__ani {
+        animation-name: changebg;
+        animation-duration: $aniduration;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: backwards;
+    }
+
+    &__diag { // this is the diagnal line
+        transform: skewY(-$skew);
+        z-index: -10; 
+        position: relative;
+        width: 100%;
+    }
+
+    // Below here is the content
+
+    &__msgcontainer {
+        width: 90%;
+        height: 90%;
+        max-height: 20rem;
+        max-width: 30rem;
+        margin: auto;
+        padding: 2rem;
+        background: $c-white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 23rem;
+    
+        z-index: 20;
+        margin-top: 3rem;
+    }
+
+    &__msg {
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        max-width: 23rem;
+        line-height: .88;
+        z-index: 30;
+
+        font-family: var(--heading-font);
+    
+        &__heading {
+            font-size: 4rem;
+        font-weight: 600;
+
+        }
+    
+        &__subheading {
+            font-size: 2.4rem;
+            display: inline-block;
+            padding-bottom: 0.3rem;
+        }
+    }
+
+    @media screen and (max-width: $tinybreak) {
+        // this reduces the height of the diagnal line and makes the msg text smaller for mobiles.
+        height: 27rem; 
+
+        &__msg {
+            &__heading {
+                font-size: 2.4rem;
+            }
+            &__subheading {
+                font-size: 1.4rem;
+            }
+
+            &container {
+                min-width: 70%;
+                width: 70%;
+                height: 70%;
+            }
+        }
+    }
+}
+
+@keyframes changebg {
+    0%      {   background-color: $hero-c1;     }
+    25%     {   background-color: $hero-c2;     }
+    75%     {   background-color: $hero-c3;     }
+    100%    {   background-color: $hero-c4;     }
+}

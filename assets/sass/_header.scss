@@ -1,0 +1,194 @@
+header, .header {
+  display: flex;
+  // position: fixed;
+  // top: 0;
+  // width: 100%;
+
+  background: --color;
+  font-family: var(--heading-font);
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: $c-white;
+  z-index: 1;
+  
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  // &__padding { USED FOR STICKY HEADER BUT BREAKS HOMEPAGE
+  //     margin-bottom: 5rem;
+  // }
+
+  &__logo {
+      height: 3rem;
+      z-index: 5;
+      min-width: 6rem;
+      fill: $c-logo;
+
+      &--container, &--responsive {
+          display: flex;
+          z-index: 5;
+          margin: 1rem 3rem;
+      }
+  }
+
+  &__padding {
+      padding-bottom: 5rem;
+  }
+
+  &__corner {
+      position: absolute;
+      background: $c-primary;
+      top: -4em;
+      left: -5rem;
+      height: 10rem;
+      width: 20rem;
+      z-index: -30;
+      transform: rotate(-10deg);
+  }
+}
+
+nav, .nav {
+  // display: flex;
+  // margin-left: auto;
+
+  a {
+      text-decoration: none;
+      color: $c-white;
+      padding: 1rem 0;
+      margin: auto 1rem;
+
+      &:first-of-type {
+          margin-left: auto;
+      }
+
+      &:hover {
+          color: $c-secondary;
+      }
+  }
+
+  &__active {
+      color: $c-black;
+  }
+
+  &__icon, &__icon--close {
+      display: none;
+  }
+}
+
+/* When the screen is small, hide links, Show  icon */
+@media screen and (max-width: $mobilebreak) {
+  // Show icon on mobile
+  nav, .nav {
+      a {
+          display: none;
+      }
+
+      &__icon {
+          display: flex;
+      }
+  }
+
+  // Format menu
+  .topnav {
+      &--responsive {
+          flex-direction: column;
+
+          a {
+              display: flex;
+              justify-content: flex-end;
+          }
+
+          .nav__icon {
+              display: none;
+
+              &--close {
+                  color: $c-secondary;
+              }
+          }
+      }
+  }
+}
+
+#nav__button {
+  animation: typing 4s;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 1.3rem;
+}
+
+@keyframes typing {
+  0% { width: 0; }
+  30% {width: 4rem;}
+  70% {width: 4rem;}
+  100% {width: 1.3rem;}
+}
+
+/* When the menu is open */
+@media screen and (max-width: $mobilebreak) {
+   // Make the logo bigger
+  .header__logo--responsive {
+      margin: 1rem;
+
+      .header__logo {
+          height: 6rem;
+          margin: 2rem 0 auto 0.5rem;
+          fill: $c-logo;
+          line: $c-logo;
+      };
+
+      .blob {
+          top:3rem;
+      }
+
+      .blob1-1 {
+          width: 10rem;
+          height: 10rem;
+      }
+
+      .blob1-2 {
+          width: 10rem;
+          height: 10rem;
+      }
+
+  }
+}
+
+
+$speed1: 30s;
+$speed2: 60s;
+$color1: var(--c-blob1);
+$color2: var(--c-blob2);
+
+.blob1-1, .blob1-2 {
+    height: 5rem;
+    width: 5rem;
+    position: absolute;
+    top: 0;
+    fill: $color1;
+    z-index: -2;
+}
+
+.blob1-1 {
+    left: 3rem;
+    -webkit-animation:spin $speed2 alternate-reverse infinite linear;
+    -moz-animation:spin $speed2 alternate-reverse infinite linear;
+    animation:spin $speed2 alternate-reverse infinite linear;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg);} }
+
+.blob1-2 {
+    width: 4rem;
+    -webkit-animation:unspin $speed1 alternate-reverse infinite linear;
+    -moz-animation:unspin $speed1 alternate-reverse infinite linear;
+    animation:unspin $speed1 alternate-reverse infinite linear;
+
+    fill: $color2;
+}
+
+@-moz-keyframes unspin { 100% { -moz-transform: rotate(-360deg); } }
+@-webkit-keyframes unspin { 100% { -webkit-transform: rotate(-360deg); } }
+@keyframes unspin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
