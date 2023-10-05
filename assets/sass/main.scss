@@ -1,5 +1,5 @@
 // @import 'original_theme.scss';
-@import 'original_theme/_original_footer.scss';
+// @import 'original_theme/_original_footer.scss';
 // @import 'original_theme/_original_navbar.scss';
 @import 'original_theme/_original_header.scss';
 @import 'original_theme/_original_main.scss';
@@ -8,6 +8,7 @@
 @import 'original_theme/_original_search.scss';
 
 @import 'overrides/_override_navbar.scss';
+@import 'overrides/_override_footer.scss';
 @import 'overrides/_override_gallery.scss';
 
 // Setup Sass Variables:
@@ -15,11 +16,7 @@ $transparent: var(--c-transparent);
 $c-white: var(--c-white);
 $c-light: var(--c-light);
 $c-black: var(--c-black);
-
-
-
 $c-logo: var(--c-logo);
-
 $c-primary: var(--c-primary);
 $c-secondary: var(--c-secondary);
 $c-bg: var(--c-bg);
@@ -254,6 +251,26 @@ body {
   }
 }
 
+.author {
+  display: flex;
+  padding: 5rem;
+  @media only screen and (max-width: 600px) {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  &__text {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  &__image {
+    display: flex;
+    width: 100%;
+  }
+}
+
 // .wordCarousel {
 //   div {
 //       overflow: hidden;
@@ -313,3 +330,15 @@ body {
 //   99.99% { margin-top: 0px; }
 //   100% { margin-top: -270px; }
 // }
+
+// fade out header / footer globally
+.primaryfade {
+  animation: primaryfade 10s;
+  animation-iteration-count:1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes primaryfade {
+  0% {background: var(--c-primary);}
+  100% {background: var(--c-light);}
+}
