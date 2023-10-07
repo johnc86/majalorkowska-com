@@ -3,7 +3,7 @@
     <title>majalorkowska-com</title>
     <link href="https://johnc86.github.io/majalorkowska-com/feed.xml" rel="self" />
     <link href="https://johnc86.github.io/majalorkowska-com" />
-    <updated>2023-10-06T16:57:55+01:00</updated>
+    <updated>2023-10-07T18:11:11+01:00</updated>
     <author>
         <name>Maja Lorkowska</name>
     </author>
@@ -17,8 +17,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/little-door.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/little-door.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/27/Maja2023SepJSRT4new.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T16:57:55+01:00</updated>
+        <updated>2023-10-06T18:02:46+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -44,8 +46,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/the-woods.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/the-woods.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/26/Maja2023SepJSRT5new.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T16:15:11+01:00</updated>
+        <updated>2023-10-06T18:02:31+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -81,8 +85,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/dame-and-ducks.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/dame-and-ducks.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/25/Maja2023SepJSRT2new.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T16:12:33+01:00</updated>
+        <updated>2023-10-06T18:01:26+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/25/Maja2023SepJSRT2new.jpg" alt="" />
@@ -118,8 +124,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/the-moor.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/the-moor.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/24/adjusted_levels_jsrt3.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T16:10:26+01:00</updated>
+        <updated>2023-10-06T18:01:17+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/24/adjusted_levels_jsrt3.jpg" alt="" />
@@ -137,12 +145,21 @@
         <img loading="lazy" src="https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/adjusted_levels_jsrt3-thumbnail.jpg" height="740" width="525" alt="" >
       </a>
       
+    </figure><figure class="gallery__item">
+      <a href="https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/IMG_20230530_190356_075.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/IMG_20230530_190356_075-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
     </figure>
     </div>
   </div>
 
   <p>
     'The moor', 2023, collage on paper
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
@@ -155,8 +172,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/untitled.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/untitled.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/23/IMG_20210902_200000_933.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T16:08:37+01:00</updated>
+        <updated>2023-10-06T18:01:37+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/23/IMG_20210902_200000_933.jpg" alt="" />
@@ -202,8 +221,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/home-2.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/home-2.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/22/IMG_20211030_110240_019.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T16:02:36+01:00</updated>
+        <updated>2023-10-06T18:01:05+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/22/IMG_20211030_110240_019.jpg" alt="" />
@@ -244,8 +265,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/water-nymph.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/water-nymph.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/21/IMG_20211212_120058_414.jpg" medium="image" />
+            <category term="Textiles"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T15:59:50+01:00</updated>
+        <updated>2023-10-06T18:00:04+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/21/IMG_20211212_120058_414.jpg" alt="" />
@@ -296,8 +319,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-3.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-3.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/20/IMG_20220317_212320_910.jpg" medium="image" />
+            <category term="Textiles"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T15:57:37+01:00</updated>
+        <updated>2023-10-06T18:00:16+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/20/IMG_20220317_212320_910.jpg" alt="" />
@@ -338,8 +363,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-2.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-2.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/19/IMG_20220316_192628_031.jpg" medium="image" />
+            <category term="Textiles"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T15:57:54+01:00</updated>
+        <updated>2023-10-07T18:10:58+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/19/IMG_20220316_192628_031.jpg" alt="" />
@@ -380,8 +407,10 @@
         <link href="https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties.html"/>
         <id>https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties.html</id>
         <media:content url="https://johnc86.github.io/majalorkowska-com/media/posts/18/IMG_20220315_200538_262.jpg" medium="image" />
+            <category term="Textiles"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-06T15:58:23+01:00</updated>
+        <updated>2023-10-07T18:11:11+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://johnc86.github.io/majalorkowska-com/media/posts/18/IMG_20220315_200538_262.jpg" alt="" />

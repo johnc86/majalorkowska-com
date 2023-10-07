@@ -19,9 +19,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Collage",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T16:50:14+01:00",
-            "date_modified": "2023-10-06T16:57:55+01:00"
+            "date_modified": "2023-10-06T18:02:46+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/the-woods.html",
@@ -33,9 +35,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Collage",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T16:15:11+01:00",
-            "date_modified": "2023-10-06T16:15:11+01:00"
+            "date_modified": "2023-10-06T18:02:31+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/dame-and-ducks.html",
@@ -48,24 +52,28 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Collage",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T16:12:33+01:00",
-            "date_modified": "2023-10-06T16:12:33+01:00"
+            "date_modified": "2023-10-06T18:01:26+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/the-moor.html",
             "url": "https://johnc86.github.io/majalorkowska-com/the-moor.html",
             "title": "The moor",
             "summary": "'The moor', 2023, collage on paper",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/adjusted_levels_jsrt3.jpg\" data-size=\"525x740\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/adjusted_levels_jsrt3-thumbnail.jpg\" height=\"740\" width=\"525\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'The moor', 2023, collage on paper\n  </p>",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/adjusted_levels_jsrt3.jpg\" data-size=\"525x740\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/adjusted_levels_jsrt3-thumbnail.jpg\" height=\"740\" width=\"525\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/IMG_20230530_190356_075.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/IMG_20230530_190356_075-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'The moor', 2023, collage on paper\n  </p>\n\n  <p>\n    \n  </p>",
             "image": "https://johnc86.github.io/majalorkowska-com/media/posts/24/adjusted_levels_jsrt3.jpg",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Collage",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T16:10:26+01:00",
-            "date_modified": "2023-10-06T16:10:26+01:00"
+            "date_modified": "2023-10-06T18:01:17+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/untitled.html",
@@ -78,9 +86,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Collage",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T16:08:37+01:00",
-            "date_modified": "2023-10-06T16:08:37+01:00"
+            "date_modified": "2023-10-06T18:01:37+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/home-2.html",
@@ -93,9 +103,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Collage",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T16:02:02+01:00",
-            "date_modified": "2023-10-06T16:02:36+01:00"
+            "date_modified": "2023-10-06T18:01:05+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/water-nymph.html",
@@ -108,9 +120,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Textiles",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T15:59:50+01:00",
-            "date_modified": "2023-10-06T15:59:50+01:00"
+            "date_modified": "2023-10-06T18:00:04+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-3.html",
@@ -123,9 +137,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Textiles",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T15:57:37+01:00",
-            "date_modified": "2023-10-06T15:57:37+01:00"
+            "date_modified": "2023-10-06T18:00:16+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-2.html",
@@ -138,9 +154,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Textiles",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T15:55:33+01:00",
-            "date_modified": "2023-10-06T15:57:54+01:00"
+            "date_modified": "2023-10-07T18:10:58+01:00"
         },
         {
             "id": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties.html",
@@ -153,9 +171,11 @@
                 "name": "Maja Lorkowska"
             },
             "tags": [
+                   "Textiles",
+                   "Artwork"
             ],
             "date_published": "2023-10-06T15:53:10+01:00",
-            "date_modified": "2023-10-06T15:58:23+01:00"
+            "date_modified": "2023-10-07T18:11:11+01:00"
         }
     ]
 }
