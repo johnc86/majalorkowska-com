@@ -10,172 +10,144 @@
     },
     "items": [
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/little-door.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/little-door.html",
-            "title": "Little door",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n\n  <p>\n    \n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/27/Maja2023SepJSRT4new.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/waves.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/waves.html",
+            "title": "Waves",
+            "summary": "42cm x 29.3 cm w ount 29.8x21 no mount",
+            "content_html": "\n  <p>\n    42cm x 29.3 cm w ount\n  </p>\n\n  <p>\n    29.8x21 no mount\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Collage",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T16:50:14+01:00",
-            "date_modified": "2023-10-06T18:02:46+01:00"
+            "date_published": "2023-10-10T09:38:01+01:00",
+            "date_modified": "2023-10-10T23:41:25+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/the-woods.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/the-woods.html",
-            "title": "The woods",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/26/gallery/IMG_20230601_122349_485.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/26/gallery/IMG_20230601_122349_485-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/26/gallery/Maja2023SepJSRT5new-2.jpg\" data-size=\"3508x4961\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/26/gallery/Maja2023SepJSRT5new-2-thumbnail.jpg\" height=\"1086\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    \n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/26/Maja2023SepJSRT5new.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/waterfll.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/waterfll.html",
+            "title": "Worried but hopeful",
+            "summary": "59.2 x42,2",
+            "content_html": "\n  <p>\n    59.2 x42,2\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Collage",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T16:15:11+01:00",
-            "date_modified": "2023-10-06T18:02:31+01:00"
+            "date_published": "2023-10-10T09:32:50+01:00",
+            "date_modified": "2023-10-10T23:41:09+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/dame-and-ducks.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/dame-and-ducks.html",
-            "title": "Dame and ducks",
-            "summary": "'Dame and ducks', 2023, collage on paper",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/25/gallery/Maja2023SepJSRT2new.jpg\" data-size=\"4961x3508\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/25/gallery/Maja2023SepJSRT2new-thumbnail.jpg\" height=\"543\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'Dame and ducks', 2023, collage on paper\n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/25/Maja2023SepJSRT2new.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/lake.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/lake.html",
+            "title": "Narcissus lake",
+            "summary": "59.4x 42",
+            "content_html": "\n  <p>\n    \n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/38/gallery/IMG_20230129_100007_890-2.jpg\" data-size=\"1357x900\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/38/gallery/IMG_20230129_100007_890-2-thumbnail.jpg\" height=\"509\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    59.4x 42\n  </p>",
+            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/38/IMG_20230129_100007_890-2.jpg",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Collage",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T16:12:33+01:00",
-            "date_modified": "2023-10-06T18:01:26+01:00"
+            "date_published": "2023-10-10T09:32:13+01:00",
+            "date_modified": "2023-10-10T23:40:24+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/the-moor.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/the-moor.html",
-            "title": "The moor",
-            "summary": "'The moor', 2023, collage on paper",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/adjusted_levels_jsrt3.jpg\" data-size=\"525x740\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/adjusted_levels_jsrt3-thumbnail.jpg\" height=\"740\" width=\"525\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/IMG_20230530_190356_075.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/24/gallery/IMG_20230530_190356_075-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'The moor', 2023, collage on paper\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/24/adjusted_levels_jsrt3.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/summit.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/summit.html",
+            "title": "The summit",
+            "summary": "59.4 x 42 w mount, 41.8x 29.7 no mount",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n\n  <p>\n    59.4 x 42 w mount, 41.8x 29.7 no mount\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Collage",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T16:10:26+01:00",
-            "date_modified": "2023-10-06T18:01:17+01:00"
+            "date_published": "2023-10-10T09:31:40+01:00",
+            "date_modified": "2023-10-10T23:41:18+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/untitled.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/untitled.html",
-            "title": "Untitled",
-            "summary": "Untitled, 2021, A3, collage on paper",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/23/gallery/IMG_20210902_200000_933.jpg\" data-size=\"1080x765\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/23/gallery/IMG_20210902_200000_933-thumbnail.jpg\" height=\"544\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/23/gallery/IMG_20210902_200000_993.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/23/gallery/IMG_20210902_200000_993-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/23/gallery/IMG_20210902_200001_288.jpg\" data-size=\"1417x1417\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/23/gallery/IMG_20210902_200001_288-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    Untitled, 2021, A3, collage on paper\n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/23/IMG_20210902_200000_933.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/ascention.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/ascention.html",
+            "title": "Ascension",
+            "summary": "42x29.5cm",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n\n  <p>\n    42x29.5cm\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Collage",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T16:08:37+01:00",
-            "date_modified": "2023-10-06T18:01:37+01:00"
+            "date_published": "2023-10-10T09:27:10+01:00",
+            "date_modified": "2023-10-10T23:40:57+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/home-2.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/home-2.html",
-            "title": "Whispering into the trees",
-            "summary": "'Whispering into the trees' from the 'Home' series, 2021, A3, collage on&hellip;",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/22/gallery/IMG_20211030_110240_019.jpg\" data-size=\"1060x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/22/gallery/IMG_20211030_110240_019-thumbnail.jpg\" height=\"1043\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/22/gallery/IMG_20211030_110240_195.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/22/gallery/IMG_20211030_110240_195-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'Whispering into the trees' from the 'Home' series, 2021, A3, collage on paper\n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/22/IMG_20211030_110240_019.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/sleeping-in-tree.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/sleeping-in-tree.html",
+            "title": "Asleep in tree",
+            "summary": "39.5x27cm",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/35/gallery/IMG_20221003_174215_368-2.jpg\" data-size=\"1004x1425\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/35/gallery/IMG_20221003_174215_368-2-thumbnail.jpg\" height=\"1090\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/35/gallery/IMG_20221003_174215_832.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/35/gallery/IMG_20221003_174215_832-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    39.5x27cm\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Collage",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T16:02:02+01:00",
-            "date_modified": "2023-10-06T18:01:05+01:00"
+            "date_published": "2023-10-10T09:26:30+01:00",
+            "date_modified": "2023-10-10T21:31:18+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/water-nymph.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/water-nymph.html",
-            "title": "Water nymph",
-            "summary": "'Water nymph', 2021, embroidered brooch",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_414.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_414-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_248.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_248-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_602.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_602-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_637.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/21/gallery/IMG_20211212_120058_637-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'Water nymph', 2021, embroidered brooch\n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/21/IMG_20211212_120058_414.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/house-storm45x285cm.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/house-storm45x285cm.html",
+            "title": "house storm45x28.5cm",
+            "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Textiles",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T15:59:50+01:00",
-            "date_modified": "2023-10-06T18:00:04+01:00"
+            "date_published": "2023-10-10T09:25:51+01:00",
+            "date_modified": "2023-10-10T09:25:51+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-3.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-3.html",
-            "title": "Badly Drawn Kitties 3",
-            "summary": "'Fancy kitty' from the 'Badly Drawn Kitties' series, 2022, punch needle wall&hellip;",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/20/gallery/IMG_20220317_212320_910.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/20/gallery/IMG_20220317_212320_910-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/20/gallery/IMG_20220317_212321_522.jpg\" data-size=\"1380x1380\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/20/gallery/IMG_20220317_212321_522-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'Fancy kitty' from the 'Badly Drawn Kitties' series, 2022, punch needle wall hanging\n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/20/IMG_20220317_212320_910.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/hand-tree-door.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/hand-tree-door.html",
+            "title": "Invitation",
+            "summary": "40x32.5",
+            "content_html": "\n  <p>\n    40x32.5\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Textiles",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T15:57:37+01:00",
-            "date_modified": "2023-10-06T18:00:16+01:00"
+            "date_published": "2023-10-10T09:25:03+01:00",
+            "date_modified": "2023-10-10T23:40:08+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-2.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties-2.html",
-            "title": "Badly Drawn Kitties 2",
-            "summary": "'Cute kitty' from the 'Badly Drawn Kitties' series, 2022, punch needle wall&hellip;",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/19/gallery/IMG_20220316_192628_031.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/19/gallery/IMG_20220316_192628_031-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/19/gallery/image.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/19/gallery/image-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'Cute kitty' from the 'Badly Drawn Kitties' series, 2022, punch needle wall hanging\n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/19/IMG_20220316_192628_031.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/rock-girl.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/rock-girl.html",
+            "title": "Caving",
+            "summary": "37x28.5cm",
+            "content_html": "\n  <p>\n    37x28.5cm\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Textiles",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T15:55:33+01:00",
-            "date_modified": "2023-10-07T18:10:58+01:00"
+            "date_published": "2023-10-10T09:24:26+01:00",
+            "date_modified": "2023-10-11T00:02:54+01:00"
         },
         {
-            "id": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties.html",
-            "url": "https://johnc86.github.io/majalorkowska-com/badly-drawn-kitties.html",
-            "title": "Badly Drawn Kitties",
-            "summary": "'Nature kitty' from the 'Badly Drawn Kitties' series, 2022, punch needle wall&hellip;",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/18/gallery/IMG_20220315_200538_262.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/18/gallery/IMG_20220315_200538_262-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://johnc86.github.io/majalorkowska-com/media/posts/18/gallery/IMG_20220315_200538_336.jpg\" data-size=\"1440x1440\">\n        <img loading=\"lazy\" src=\"https://johnc86.github.io/majalorkowska-com/media/posts/18/gallery/IMG_20220315_200538_336-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    'Nature kitty' from the 'Badly Drawn Kitties' series, 2022, punch needle wall hanging\n  </p>",
-            "image": "https://johnc86.github.io/majalorkowska-com/media/posts/18/IMG_20220315_200538_262.jpg",
+            "id": "https://johnc86.github.io/majalorkowska-com/swimming.html",
+            "url": "https://johnc86.github.io/majalorkowska-com/swimming.html",
+            "title": "A wild swim",
+            "summary": "59x42 A2?",
+            "content_html": "\n  <p>\n    59x42\n  </p>\n\n  <p>\n    A2?\n  </p>",
             "author": {
                 "name": "Maja Lorkowska"
             },
             "tags": [
-                   "Textiles",
-                   "Artwork"
             ],
-            "date_published": "2023-10-06T15:53:10+01:00",
-            "date_modified": "2023-10-07T18:11:11+01:00"
+            "date_published": "2023-10-10T09:23:33+01:00",
+            "date_modified": "2023-10-10T21:31:44+01:00"
         }
     ]
 }
