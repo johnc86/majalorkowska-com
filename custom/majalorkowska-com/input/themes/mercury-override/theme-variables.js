@@ -284,7 +284,7 @@ var generateThemeVariables = function(params) {
             --page-margin:        ${params.pageMargin};
             --page-width:         ${params.pageWidth}; 
             --entry-width:        ${params.entryWidth}; 
-            --header-height:      4rem; 
+            --header-height:      5rem; 
             --border-radius:      2px;
             --grid-gap:           ${params.gridGap}rem; 
             --body-font:          ${fontBodyFamily};

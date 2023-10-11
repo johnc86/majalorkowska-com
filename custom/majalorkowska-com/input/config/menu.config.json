@@ -16,6 +16,18 @@
                 "items": []
             },
             {
+                "id": 1696112616103,
+                "label": "Bio",
+                "title": "Biography",
+                "type": "author",
+                "target": "_self",
+                "rel": "",
+                "link": "maja-lorkowska",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1694709631014,
                 "label": "Writing",
                 "title": "",
@@ -37,7 +49,20 @@
                 "link": 3,
                 "cssClass": "",
                 "isHidden": false,
-                "items": []
+                "items": [
+                    {
+                        "id": 1696095063542,
+                        "label": "Water",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 4,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
             }
         ],
         "maxLevels": "-1"

@@ -9,6 +9,13 @@
             "maxLevels": -1
         }
     },
+    "postTemplates": {
+      "maja_writing": "A writing post",
+      "maja_picture": "A picture gallery post"
+    },
+    "tagTemplates": {
+      "maja_writing": "A list of writing posts"
+    },
     "renderer": {
         "relatedPostsNumber": 3,
         "renderRelatedPosts": true,
@@ -31,7 +38,7 @@
         "tagPages": true,
         "tagImages": true,
         "authorPages": true,
-        "authorImages": false,
+        "authorImages": true,
         "searchPage": true,
         "errorPage": true,
         "customSearch": true,
@@ -1722,170 +1729,18 @@
         }
     ],
     "postConfig": [
-        {
-            "name": "featuredImageWidth",
-            "label": "Featured Image width",
-            "value": "post__image--wide",
-            "type": "select",
-            "options": [
-                {
-                    "label": "Normal",
-                    "value": "post__image--normal"
-                },
-                {
-                    "label": "Wide",
-                    "value": "post__image--wide"
-                },
-                {
-                    "label": "Full",
-                    "value": "post__image--full"
-                }
-            ]
-        },
-        {
-            "name": "displayAuthor",
-            "label": "Display author name",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayDate",
-            "label": "Display date",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayLastUpdatedDate",
-            "label": "Display last updated date",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayTags",
-            "label": "Display tags",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayShareButtons",
-            "label": "Display share buttons",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayPostNavigation",
-            "label": "Display post navigation",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayAuthorBio",
-            "label": "Display author bio",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayRelatedPosts",
-            "label": "Display related posts",
-            "value": 1,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        },
-        {
-            "name": "displayComments",
-            "label": "Display comments",
-            "value": 0,
-            "type": "select",
-            "options": [
-                {
-                    "label": "Enabled",
-                    "value": 1
-                },
-                {
-                    "label": "Disabled",
-                    "value": 0
-                }
-            ]
-        }
+      {
+        "name": "externalLink",
+        "label": "Link to external content",
+        "value": "",
+        "type": "text"        
+      },
+      {
+        "name": "customDate",
+        "label": "Add a custom published date",
+        "value": "",
+        "type": "text"        
+      }
     ],
     "authorConfig": [
         {

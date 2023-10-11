@@ -1,0 +1,98 @@
+@mixin col_light {
+  // General utility colours
+  --c-transparent:    hsla(0, 0%, 100%, 0);   // zero alpha!
+  --c-white:          hsl(0, 0%, 100%);       // #fff
+  --c-light:          hsl(0, 0%, 73%);        // #bbb
+  --c-black:          hsl(222, 53%, 21%);     // space-cadet
+
+  // Site colours
+  --c-sitebg:         white;     
+  --c-primary:        rgba(66, 179, 145, 1);  // mint
+  --c-secondary:      hsl(46, 100%, 66%);     // mustard
+  --c-bg:             hsl(0, 0%, 100%);       // #fff
+  --c-bg2:            hsl(50, 70%, 88%);      // lemon-meringue
+  --c-alert:          hsl(2, 70%, 53%);       // cg-red
+
+  // Logo colours
+  --c-blob1:            rgb(255, 255, 255);  // White
+  --c-blob2:            rgba(255, 215, 81, 1);// mustard
+  --c-logo:               #000;
+
+  // Animation colours
+  --hero-ani-1:       var(--c-primary);         // Mint
+  --hero-ani-2:       hsl(265, 68%, 84%);     // Mauve
+  --hero-ani-3:       hsl(217, 65%, 59%);     // French-sky-blue
+  --hero-ani-4:       hsl(347, 38%, 64%);     // Puce
+}
+
+@mixin col_dark {
+  // DARK THEME
+  // Generl utility colours
+  --c-transparent:    hsla(0, 0%, 100%, 0);       // zero alpha!
+  --c-white:          hsl(0, 0%, 12%);            //
+  --c-light:          hsl(0, 0%, 31%);            //
+  --c-black:          hsl(0, 0%, 86%);            //
+
+  // Site colours
+  --c-sitebg:         rgb(36, 36, 36);            //
+  --c-primary:        hsl(209, 69%, 40%); //
+  --c-secondary:      hsl(59, 100%, 37%);          //
+  --c-bg:             hsl(0, 0%, 15%);            //
+  --c-bg2:            hsl(49, 8%, 28%);           //
+  --c-alert:          hsl(2, 100%, 14%);          //
+
+  // Logo colours
+  --c-blob1:            rgb(255, 255, 255);         //
+  --c-blob2:            hsl(59, 100%, 37%);        //
+  --c-logo:            #000;         //
+
+  // Animation colours
+  --hero-ani-1:       var(--c-primary);             //
+  --hero-ani-2:       rgba(185, 151, 236, 1);            //
+  --hero-ani-3:       hsl(180, 47%, 50%);       //
+  --hero-ani-4:       hsl(347, 38%, 34%);         //
+}
+
+
+
+// // Option 1
+// $space-cadet: rgba(25, 42, 81, 1);
+// $mimi-pink: rgba(255, 220, 232, 1);
+// $cg-red: rgba(219, 58, 52, 1);
+// $mustard: rgba(255, 215, 81, 1);
+// $united-nations-blue: rgba(83, 134, 218, 1);
+
+// // Option 2
+// $lemon-meringue: rgba(246, 239, 203, 1);
+// $puce: rgba(198, 128, 143, 1);
+// $mauve: rgba(209, 186, 242, 1);
+// $mint: rgba(66, 179, 145, 1);
+// $lapis-lazuli: rgba(28, 93, 153, 1);
+
+// // Option 3
+// $french-sky-blue: rgba(106, 172, 240, 1);
+// $pink: rgba(255, 194, 206, 1);
+// $emerald: rgba(69, 203, 133, 1);
+// $cadet-blue-crayola: rgba(147, 163, 188, 1);
+// $cerulean-blue: rgba(44, 80, 192, 1);
+
+// // Option 4
+// $lapis-lazuli: rgba(28, 93, 153, 1);
+// $lavender-floral: rgba(185, 151, 236, 1);
+// $cameo-pink: rgba(222, 181, 190, 1);
+// $maize-crayola: rgba(226, 192, 68, 1);
+// $middle-blue-green: rgba(125, 207, 182, 1);
+
+// // Option 5
+// $cerulean-blue: rgba(64, 89, 173, 1);
+// $cerulean-frost: rgba(107, 154, 196, 1);
+// $middle-blue-green: rgba(151, 216, 196, 1);
+// $cultured: rgba(239, 242, 241, 1);
+// $maximum-yellow-red: rgba(244, 185, 66, 1);
+
+// // Option 6
+// $misty-rose: rgba(255, 223, 213, 1);
+// $international-orange-golden-gate-bridge: rgba(191, 59, 32, 1);
+// $sea-green-crayola: rgba(8, 239, 178, 1);
+// $bright-yellow-crayola: rgba(255, 170, 49, 1);
+// $aero: rgba(127, 176, 219, 1);

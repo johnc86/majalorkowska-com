@@ -196,5 +196,14 @@
   </div>
   {{/if}} --}}
   {{/post}}
+  <script>
+        setTimeout(function() {
+            var footer = document.querySelector('header');
+            var footer = document.querySelector('footer');
+
+            header.classList.add('primaryfade');
+            footer.classList.add('primaryfade');
+        }, 1000);
+    </script>
 </main>
 {{> footer}}

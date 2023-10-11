@@ -1,103 +1,37 @@
 {{> head}}
 {{> navbar}}
 <main class="page page--tag">
-   {{#tag}}
-      <div class="hero wrapper">
-         {{#if tagViewConfig.displayDescription}} 
-            {{#if description}}
-               {{{description}}}
-            {{/if}}  
-         {{/if}} 
-         <h1>
-            {{name}}
-            {{#if tagViewConfig.displayPostCounter}}<sup>({{postsNumber}})</sup>{{/if}}
-         </h1>     
-      </div>
-      {{#if tagViewConfig.displayPostList}} 
-         {{#checkIf @config.custom.cardsLayout '==' "compact" }}
-            <div class="l-col l-col{{@config.custom.layoutTags}}">
-               {{#each ../posts}}
-                  <section
-                     class="c-card{{#isFeatured}} c-card--compact c-card--featured{{/isFeatured}}">
-                     <a href="{{url}}" class="c-card__link">
-                        {{#featuredImage}}
-                           {{#if url}}
-                              <div class="c-card__header">
-                                 <img
-                                    src="{{url}}"
-                                    {{#if @config.site.responsiveImages}}
-                                       {{responsiveImageAttributes 'featuredImage' srcset.cards sizes.cards}}
-                                    {{/if}}
-                                    {{ lazyload "lazy" }}
-                                    height="{{height}}"
-                                    width="{{width}}"
-                                    alt="{{alt}}">
-                              </div>
-                           {{/if}}
-                        {{/featuredImage}}
-                        <div class="c-card__body c-card__body--compact">
-                           <div class="c-card__text c-card__text--compact">
-                              <h2>
-                                 {{title}}
-                              </h2>
-                              {{#if @config.custom.cardsDate}}
-                                 <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
-                                    {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                       {{date createdAt @config.custom.formatDate}}
-                                    {{else}}
-                                       {{date createdAt @config.custom.formatDateCustom}}
-                                    {{/checkIf}}
-                                 </time>
-                              {{/if}}
-                           </div>
-                        </div>
-                     </a>
-                  </section>
-               {{/each}}
-            </div>
-         {{else}}
-            <div class="l-col l-col{{@config.custom.layoutTags}}">
-               {{#each ../posts}}
-                  <section class="c-card{{#isFeatured}} c-card--featured{{/isFeatured}}">
-                     <a href="{{url}}" class="c-card__link">
-                        {{#featuredImage}}
-                           {{#if url}}
-                              <div class="c-card__header">
-                                 <img
-                                    src="{{url}}"
-                                    {{#if @config.site.responsiveImages}}
-                                       {{responsiveImageAttributes 'featuredImage' srcset.cards sizes.cards}}
-                                    {{/if}}
-                                    {{ lazyload "lazy" }}
-                                    height="{{height}}"
-                                    width="{{width}}"
-                                    alt="{{alt}}">
-                              </div>
-                           {{/if}}
-                        {{/featuredImage}}
-                        <div class="c-card__body">
-                           <div class="c-card__text">
-                              <h2>
-                                 {{title}}
-                              </h2>
-                              {{#if @config.custom.cardsDate}}
-                                 <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
-                                    {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                                       {{date createdAt @config.custom.formatDate}}
-                                    {{else}}
-                                       {{date createdAt @config.custom.formatDateCustom}}
-                                    {{/checkIf}}
-                                 </time>
-                              {{/if}}
-                           </div>
-                        </div>
-                     </a>
-                  </section>
-               {{/each}}
-            </div>
-         {{/checkIf}}
-         {{> pagination}}
-      {{/if}}
-   {{/tag}}
+  {{#tag}}
+  {{!-- {{#checkif #tag == 'Writing'}}
+    <h1>DETECTED!!</h1>
+  {{/checkIf}} --}}
+  <div
+    class="l-col l-col{{@config.custom.layoutTags}}">
+    {{#each ../posts}}
+    {{#if featuredImage.id}}
+    <section
+      class="c-card{{#isFeatured}} c-card--featured{{/isFeatured}}">
+      <a href="{{url}}" class="c-card__link">
+    {{!-- {{#featuredImage}} --}}
+        {{#if featuredImage.url}}
+        <div class="c-card__header">
+          <img src="{{featuredImage.url}}" {{#if
+            @config.site.responsiveImages}}
+            {{responsiveImageAttributes 'featuredImage'
+            featuredImage.srcset.cards featuredImage.sizes.cards}} {{/if}} {{
+            lazyload "lazy" }} height="{{featuredImage.height}}"
+            width="{{featuredImage.width}}" alt="{{featuredImage.alt}}">
+        </div>
+        {{/if}}
+    {{!-- {{/featuredImage}} --}}
+      </a>
+    </section>
+    {{/if}}
+    {{/each}}
+  </div>
+  {{!-- {{/checkIf}} --}}
+  {{> pagination}}
+  {{!-- {{/if}} --}}
+  {{/tag}}
 </main>
 {{> footer}}

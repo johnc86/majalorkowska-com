@@ -9,9 +9,35 @@
   {{#post}}
   <article
     class="post {{#isFeatured}}post--featured{{/isFeatured}} wrapper">
-    {{!-- <header class="hero">
+    <div class="hero">
+      {{#checkIfAny @config.post.displayAuthor
+      @config.post.displayDate}}
+      <p class="post__meta">
+        {{#if @config.post.displayAuthor}}
+        {{#author}}
+        {{ translate 'post.publishedBy' }}
+        <a href="{{url}}" rel="author"
+          title="{{name}}">{{name}}</a>
+        {{/author}}
+        {{/if}}
+        {{#if @config.post.displayDate}}
+        {{ translate 'post.publishedOn' }}
+        <time
+          datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
+          {{#checkIf @config.custom.formatDate
+          '!=' 'custom'}}
+          {{date createdAt
+          @config.custom.formatDate}}
+          {{else}}
+          {{date createdAt
+          @config.custom.formatDateCustom}}
+          {{/checkIf}}
+        </time>
+        {{/if}}
+      </p>
+      {{/checkIfAny}}
       <h1 class="post__title">{{title}}</h1>
-    </header>
+    </div>
     {{#featuredImage}}
     {{#if url}}
     <figure
@@ -31,11 +57,11 @@
       {{/checkIfAny}}
     </figure>
     {{/if}}
-    {{/featuredImage}} --}}
+    {{/featuredImage}}
     <div class="post__entry">
       {{{text}}}
     </div>
-    {{!-- {{#checkIfAny
+    {{#checkIfAny
     @config.post.displayLastUpdatedDate
     @config.post.displayTags
     @config.post.displayShareButtons
@@ -181,10 +207,10 @@
       {{/if}}
       {{/if}}
     </footer>
-    {{/checkIfAny}} --}}
+    {{/checkIfAny}}
   </article>
 
-  {{!-- {{#if @config.post.displayComments}}
+  {{#if @config.post.displayComments}}
   <div class="comments-area wrapper">
     {{{@commentsCustomCode}}}
   </div>
@@ -194,7 +220,7 @@
   <div class="banner banner--after-post">
     {{{@customHTML.afterPost}}}
   </div>
-  {{/if}} --}}
+  {{/if}}
   {{/post}}
 </main>
 {{> footer}}

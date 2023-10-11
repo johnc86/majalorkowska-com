@@ -1,0 +1,39 @@
+{{> head}}
+{{> navbar}}
+<main class="page page--tag">
+  {{#tag}}
+  <div>
+    {{#each ../posts}}
+    {{#if postViewConfig.externalLink}}
+          <a href="{{postViewConfig.externalLink}}">
+        {{else}}
+          <a href="{{url}}" class="writing_post_link">
+        {{/if}}
+            <section class="writing">
+              <h1>{{title}}</h1>
+              {{#if postViewConfig.customDate}}
+                <span class="date">{{postViewConfig.customDate}}</span>
+              {{else}}
+                <span class="date">
+                  <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}">
+                    {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                        {{date createdAt @config.custom.formatDate}}
+                    {{else}}
+                        {{date createdAt @config.custom.formatDateCustom}}
+                    {{/checkIf}}
+                  </time>
+                </span>
+              {{/if}}
+              <br>
+              {{#if hasCustomExcerpt}}
+                <div class="excerpt">{{{ excerpt }}}</div>
+              {{/if}}
+            <p class="readmorelink">Click to read more...</p>
+          </a>
+      </section>
+    {{/each}}
+  </div>
+  {{> pagination}}
+  {{/tag}}
+</main>
+{{> footer}}

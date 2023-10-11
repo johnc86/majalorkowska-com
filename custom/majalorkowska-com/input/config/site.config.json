@@ -37,20 +37,24 @@
         "metaTitle": "%sitename",
         "metaDescription": "",
         "noIndexThisPage": false,
+        "noIndexForChatGPTBot": true,
+        "noIndexForChatGPTUser": true,
+        "noIndexForCommonCrawlBots": true,
         "homepageNoIndexPagination": false,
+        "homepageNoPagination": false,
         "metaRobotsIndex": "index, follow",
         "postMetaTitle": "%posttitle - %sitename ",
         "postMetaDescription": "",
         "postUseTextWithoutCustomExcerpt": false,
-        "tagMetaTitle": "Tag: %tagname - %sitename",
+        "tagMetaTitle": "%tagname - %sitename",
         "tagMetaDescription": "",
         "tagNoIndexPagination": false,
         "tagNoPagination": false,
         "metaRobotsTags": "noindex, follow",
-        "tagsMetaTitle": "All tags - %sitename",
+        "tagsMetaTitle": "%sitename",
         "tagsMetaDescription": "",
         "metaRobotsTagsList": "noindex, follow",
-        "authorMetaTitle": "Author: %authorname - %sitename",
+        "authorMetaTitle": "Bio - %sitename",
         "authorMetaDescription": "",
         "metaRobotsAuthors": "noindex, follow",
         "authorNoIndexPagination": false,
@@ -179,6 +183,7 @@
         },
         "gitlab": {
             "server": "https://gitlab.com/",
+            "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
             "token": ""
@@ -198,5 +203,5 @@
         }
     },
     "theme": "mercury",
-    "syncDate": 1694710208432
+    "syncDate": 1697057408254
 }
