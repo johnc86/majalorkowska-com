@@ -3,35 +3,51 @@
     <title>majalorkowska-com</title>
     <link href="https://majalorkowska.com/feed.xml" rel="self" />
     <link href="https://majalorkowska.com" />
-    <updated>2023-10-11T00:02:54+01:00</updated>
+    <updated>2023-10-11T23:27:51+01:00</updated>
     <author>
-        <name>Maja Lorkowska</name>
+        <name>Maja Lorkowska-Callaghan</name>
     </author>
     <id>https://majalorkowska.com</id>
 
     <entry>
         <title>Waves</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/waves.html"/>
         <id>https://majalorkowska.com/waves.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/40/Waves.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T23:41:25+01:00</updated>
+        <updated>2023-10-11T22:16:30+01:00</updated>
             <summary>
                 <![CDATA[
-                    42cm x 29.3 cm w ount 29.8x21 no mount
+                        <img src="https://majalorkowska.com/media/posts/40/Waves.jpg" alt="" />
+                    Waves, 2021, found images and painted elements on paper, 42cm x 29.3&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/40/Waves.jpg" class="type:primaryImage" alt="" /></p>
                 
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/40/gallery/Waves.jpg" data-size="782x1074">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/40/gallery/Waves-thumbnail.jpg" height="1055" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
   <p>
-    42cm x 29.3 cm w ount
+    Waves, 2021, found images and painted elements on paper, 42cm x 29.3 cm (with mount), 29.8 x 21cm (no mount)
   </p>
 
   <p>
-    29.8x21 no mount
+    
   </p>
             ]]>
         </content>
@@ -39,22 +55,48 @@
     <entry>
         <title>Worried but hopeful</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/waterfll.html"/>
         <id>https://majalorkowska.com/waterfll.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/39/IMG_20211104_125621_442-1.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T23:41:09+01:00</updated>
+        <updated>2023-10-11T23:24:25+01:00</updated>
             <summary>
                 <![CDATA[
-                    59.2 x42,2
+                        <img src="https://majalorkowska.com/media/posts/39/IMG_20211104_125621_442-1.jpg" alt="" />
+                    Worried but hopeful, 2021, collage on paper, 59.2 x 42.2 cm
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/39/IMG_20211104_125621_442-1.jpg" class="type:primaryImage" alt="" /></p>
                 
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/39/gallery/IMG_20211104_125621_442-1.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/39/gallery/IMG_20211104_125621_442-1-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/39/gallery/IMG_20211104_125621_645.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/39/gallery/IMG_20211104_125621_645-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/39/gallery/IMG_20211104_125622_047.jpg" data-size="931x932">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/39/gallery/IMG_20211104_125622_047-thumbnail.jpg" height="769" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
   <p>
-    59.2 x42,2
+    Worried but hopeful, 2021, collage on paper, 59.2 x 42.2 cm
   </p>
             ]]>
         </content>
@@ -62,17 +104,19 @@
     <entry>
         <title>Narcissus lake</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/lake.html"/>
         <id>https://majalorkowska.com/lake.html</id>
         <media:content url="https://majalorkowska.com/media/posts/38/IMG_20230129_100007_890-2.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T23:40:24+01:00</updated>
+        <updated>2023-10-11T22:28:40+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://majalorkowska.com/media/posts/38/IMG_20230129_100007_890-2.jpg" alt="" />
-                    59.4x 42
+                    Narcissus lake, 2022, found images and mirror card on paper, 59.4 x&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -95,7 +139,7 @@
   </div>
 
   <p>
-    59.4x 42
+    Narcissus lake, 2022, found images and mirror card on paper, 59.4 x 42cm
   </p>
             ]]>
         </content>
@@ -103,28 +147,43 @@
     <entry>
         <title>The summit</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/summit.html"/>
         <id>https://majalorkowska.com/summit.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/37/aa089c6e-5599-461c-a4ae-a1a3d1bfc937.jpeg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T23:41:18+01:00</updated>
+        <updated>2023-10-11T23:20:06+01:00</updated>
             <summary>
                 <![CDATA[
-                    59.4 x 42 w mount, 41.8x 29.7 no mount
+                        <img src="https://majalorkowska.com/media/posts/37/aa089c6e-5599-461c-a4ae-a1a3d1bfc937.jpeg" alt="" />
+                    The summit, 2021, collage on paper, 59.4 x 42 w mount, 41.8x&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/37/aa089c6e-5599-461c-a4ae-a1a3d1bfc937.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/37/gallery/IMG_20211101_134220_355-1.jpg" data-size="1360x1361">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/37/gallery/IMG_20211101_134220_355-1-thumbnail.jpg" height="769" width="768" alt="" >
+      </a>
       
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/37/gallery/aa089c6e-5599-461c-a4ae-a1a3d1bfc937.jpeg" data-size="640x640">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/37/gallery/aa089c6e-5599-461c-a4ae-a1a3d1bfc937-thumbnail.jpeg" height="640" width="640" alt="" >
+      </a>
+      
+    </figure>
     </div>
   </div>
 
   <p>
-    59.4 x 42 w mount, 41.8x 29.7 no mount
+    The summit, 2021, collage on paper, 59.4 x 42 w mount, 41.8x 29.7 no mount
   </p>
             ]]>
         </content>
@@ -132,28 +191,38 @@
     <entry>
         <title>Ascension</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/ascention.html"/>
         <id>https://majalorkowska.com/ascention.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/36/IMG_20230123_195643_881-2.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T23:40:57+01:00</updated>
+        <updated>2023-10-11T22:30:40+01:00</updated>
             <summary>
                 <![CDATA[
-                    42x29.5cm
+                        <img src="https://majalorkowska.com/media/posts/36/IMG_20230123_195643_881-2.jpg" alt="" />
+                    Ascension, 2022, collage on paper, 42 x 29.5cm
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/36/IMG_20230123_195643_881-2.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/36/gallery/IMG_20230123_195643_881-2.jpg" data-size="1433x1026">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/36/gallery/IMG_20230123_195643_881-2-thumbnail.jpg" height="550" width="768" alt="" >
+      </a>
       
+    </figure>
     </div>
   </div>
 
   <p>
-    42x29.5cm
+    Ascension, 2022, collage on paper, 42 x 29.5cm
   </p>
             ]]>
         </content>
@@ -161,15 +230,17 @@
     <entry>
         <title>Asleep in tree</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/sleeping-in-tree.html"/>
         <id>https://majalorkowska.com/sleeping-in-tree.html</id>
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T21:31:18+01:00</updated>
+        <updated>2023-10-11T22:31:12+01:00</updated>
             <summary>
                 <![CDATA[
-                    39.5x27cm
+                    Asleep in tree, 2023, collage on paper, 39.5 x 27cm
                 ]]>
             </summary>
         <content type="html">
@@ -192,26 +263,51 @@
   </div>
 
   <p>
-    39.5x27cm
+    Asleep in tree, 2023, collage on paper, 39.5 x 27cm
   </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>house storm45x28.5cm</title>
+        <title>Quiet storm</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/house-storm45x285cm.html"/>
         <id>https://majalorkowska.com/house-storm45x285cm.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/34/IMG_20230519_205444_745-2.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T09:25:51+01:00</updated>
-            <summary></summary>
+        <updated>2023-10-11T22:31:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://majalorkowska.com/media/posts/34/IMG_20230519_205444_745-2.jpg" alt="" />
+                    Quiet storm, 2023, collage on paper,&nbsp;45 x 28.5cm,
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/34/IMG_20230519_205444_745-2.jpg" class="type:primaryImage" alt="" /></p>
                 
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/34/gallery/IMG_20230519_205444_745-2.jpg" data-size="837x1380">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/34/gallery/IMG_20230519_205444_745-2-thumbnail.jpg" height="1266" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/34/gallery/IMG_20230519_205445_127.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/34/gallery/IMG_20230519_205445_127-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
   <p>
-    
+    Quiet storm, 2023, collage on paper,&nbsp;45 x 28.5cm, 
   </p>
             ]]>
         </content>
@@ -219,22 +315,38 @@
     <entry>
         <title>Invitation</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/hand-tree-door.html"/>
         <id>https://majalorkowska.com/hand-tree-door.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/33/IMG_20230607_210157_572-2.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T23:40:08+01:00</updated>
+        <updated>2023-10-11T22:51:55+01:00</updated>
             <summary>
                 <![CDATA[
-                    40x32.5
+                        <img src="https://majalorkowska.com/media/posts/33/IMG_20230607_210157_572-2.jpg" alt="" />
+                    Invitation, 2022, collage on paper, 40 x 32.5cm
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/33/IMG_20230607_210157_572-2.jpg" class="type:primaryImage" alt="" /></p>
                 
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/33/gallery/IMG_20230607_210157_572-2.jpg" data-size="1203x1284">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/33/gallery/IMG_20230607_210157_572-2-thumbnail.jpg" height="820" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
   <p>
-    40x32.5
+    Invitation, 2022, collage on paper, 40 x 32.5cm
   </p>
             ]]>
         </content>
@@ -242,49 +354,97 @@
     <entry>
         <title>Caving</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
         <link href="https://majalorkowska.com/rock-girl.html"/>
         <id>https://majalorkowska.com/rock-girl.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/32/IMG_20230517_185906_414-2.jpg" medium="image" />
+            <category term="Collage"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-11T00:02:54+01:00</updated>
+        <updated>2023-10-11T23:26:18+01:00</updated>
             <summary>
                 <![CDATA[
-                    37x28.5cm
+                        <img src="https://majalorkowska.com/media/posts/32/IMG_20230517_185906_414-2.jpg" alt="" />
+                    Caving, 2023, collage on paper, 37 x 28.5cm
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/32/IMG_20230517_185906_414-2.jpg" class="type:primaryImage" alt="" /></p>
                 
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/32/gallery/IMG_20230517_185906_414-2.jpg" data-size="1386x1025">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/32/gallery/IMG_20230517_185906_414-2-thumbnail.jpg" height="568" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/32/gallery/IMG_20230517_185906_550.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/32/gallery/IMG_20230517_185906_550-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/32/gallery/IMG_20230517_185906_799.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/32/gallery/IMG_20230517_185906_799-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
   <p>
-    37x28.5cm
+    Caving, 2023, collage on paper, 37 x 28.5cm
   </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>A wild swim</title>
+        <title>Mackerel</title>
         <author>
-            <name>Maja Lorkowska</name>
+            <name>Maja Lorkowska-Callaghan</name>
         </author>
-        <link href="https://majalorkowska.com/swimming.html"/>
-        <id>https://majalorkowska.com/swimming.html</id>
+        <link href="https://majalorkowska.com/mackerel.html"/>
+        <id>https://majalorkowska.com/mackerel.html</id>
+        <media:content url="https://majalorkowska.com/media/posts/29/IMG_20221006_193043_284-2.jpg" medium="image" />
+            <category term="Textiles"/>
+            <category term="Artwork"/>
 
-        <updated>2023-10-10T21:31:44+01:00</updated>
+        <updated>2023-10-11T23:27:51+01:00</updated>
             <summary>
                 <![CDATA[
-                    59x42 A2?
+                        <img src="https://majalorkowska.com/media/posts/29/IMG_20221006_193043_284-2.jpg" alt="" />
+                    Mackerel with limes, 2022, embroidery with beading on tulle
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://majalorkowska.com/media/posts/29/IMG_20221006_193043_284-2.jpg" class="type:primaryImage" alt="" /></p>
                 
-  <p>
-    59x42
-  </p>
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/29/gallery/IMG_20221006_193043_284-2.jpg" data-size="1344x1006">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/29/gallery/IMG_20221006_193043_284-2-thumbnail.jpg" height="575" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/29/gallery/IMG_20221006_193041_419.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/29/gallery/IMG_20221006_193041_419-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://majalorkowska.com/media/posts/29/gallery/IMG_20221006_193042_269.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://majalorkowska.com/media/posts/29/gallery/IMG_20221006_193042_269-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
 
   <p>
-    A2?
+    Mackerel with limes, 2022, embroidery with beading on tulle
   </p>
             ]]>
         </content>
